@@ -309,7 +309,7 @@ const Table = () => {
                     style={{ whiteSpace: 'nowrap', display: 'inline-block' }}
                   >
                     Companies{' '}
-                    <span data-tip="Companies retrieved from Leetcode Premium (May 2021)">
+                    <span data-tip="Companies retrieved from Leetcode Premium (December 2021)">
                       <FaQuestionCircle />
                     </span>
                   </div>
